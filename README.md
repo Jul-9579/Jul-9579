@@ -26,14 +26,6 @@ Currently completing an **intensive Data Science program** at Code Academy Berli
 
 ---
 
-## 📊 GitHub Stats
-
-![Julien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jul-9579&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jul-9579&layout=compact)
-
----
-
 ## 📁 Featured Projects
 
 ### 🚲 [Bikesharing Project](https://github.com/Jul-9579/bikesharing-project)
