@@ -32,11 +32,11 @@ Currently completing an **intensive Data Science program** at Code Academy Berli
 
 Analysis of ride data in Washington DC, with Folium visualizations and ward-level insights.
 
-### 🍷 [Wine Quality Project](https://github.com/Jul-9579/wine-quality-project)
+### 🍷 [Wine Quality Project](https://github.com/Jul-9579/Project-2)
 
 Exploratory data analysis and predictive modeling on wine quality using classification algorithms.
 
-### 🛒 [Superstore E-commerce Project](https://github.com/Jul-9579/project-superstore)
+### 🛒 [Superstore E-commerce Project](https://github.com/Jul-9579/Project-4)
 
 Interactive Tableau dashboard analysing sales and profits trends on a state level.
 
