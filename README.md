@@ -36,7 +36,7 @@ Analysis of ride data in Washington DC, with Folium visualizations and ward-leve
 
 Exploratory data analysis and predictive modeling on wine quality using classification algorithms.
 
-### 🛒 [Superstore E-commerce Project](https://github.com/Jul-9579/Project-4)
+### 🛒 [Superstore E-commerce Project](https://github.com/Jul-9579/Project-5)
 
 Interactive Tableau dashboard analysing sales and profits trends on a state level.
 
